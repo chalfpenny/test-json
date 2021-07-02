@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "last_name":"Washington",
+        "first_name":"George",
+        "state":"VA"
+    },
+    {
+        "id":2,
+        "last_name":"Adams",
+        "first_name":"John",
+        "state":"MA"
+    },
+    {
+        "id":3,
+        "last_name":"Jefferson",
+        "first_name":"Thomas",
+        "state":"VA"
+    },
+    {
+        "id":4,
+        "last_name":"Madison",
+        "first_name":"James",
+        "state":"VA"
+    }
+]
